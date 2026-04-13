@@ -1,70 +1,105 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi,%20I'm%20Rifat%20Bhuiyan&fontSize=50&animation=fadeIn&fontAlignY=38" />
-</p>
+<h1 align="center">Hi 👋, I'm Rifat Bhuiyan</h1>
+<h3 align="center">CSE Student at AIUB | Passionate about Programming, Web Development and Problem Solving</h3>
 
 <p align="center">
-  <a href="https://github.com/rifatbhuiyan26">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c3f5ff&center=true&vCenter=true&width=435&lines=CSE+Student+@+AIUB;Full-Stack+Web+Developer;AI+and+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=rifatbhuiyan26&label=Profile%20views&color=0e75b6&style=flat" alt="rifatbhuiyan26" />
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 I am a **Computer Science & Engineering student at AIUB**
+- 💻 I am interested in **Web Development, Software Engineering, and Problem Solving**
+- 🌱 I am currently learning **HTML, CSS, JavaScript, Python, and C++**
+- 🚀 I like building practical academic and personal projects
+- 📫 Email: **your-email@gmail.com**
+- 📍 Location: **Bangladesh**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.facebook.com/your-facebook-id" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 Final Year **CSE Student** at **American International University-Bangladesh (AIUB)**.
-- 💻 Specialized in **Full-Stack Web Development** and **Deep Learning**.
-- 🔬 Thesis Research: **Smart Farming AI** Resilience under 2050 Climate Projections.
-- 🐈 Proud caretaker of some adorable kittens.
-- 🌍 Graduating in **September 2026**.
+## 🛠 Tech Stack
 
----
-
-### 📊 GitHub Analysis & Metrics (As per Screenshot)
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatbhuiyan26&layout=compact&theme=tokyonight&hide_border=true&card_width=490" />
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rifatbhuiyan26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatbhuiyan26&theme=tokyonight&hide_border=true" />
+### Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifatbhuiyan26&theme=tokyonight" />
-</p>
-
----
-
-### 🛠️ AIUB CSE Skill Set (Circular Proficiency)
-
-<p align="center">
-  <img src="https://gauge-meter.com/api/gauge/95?title=C+Language&color=00b4d8&size=140" width="140" title="Expert" />
-  <img src="https://gauge-meter.com/api/gauge/92?title=HTML%2FCSS&color=00b4d8&size=140" width="140" title="Advanced" />
-  <img src="https://gauge-meter.com/api/gauge/88?title=C%23+%2F+.NET&color=00b4d8&size=140" width="140" title="Advanced" />
-  <img src="https://gauge-meter.com/api/gauge/85?title=PHP+%2F+MySQL&color=00b4d8&size=140" width="140" title="Intermediate" />
-  <br>
-  <img src="https://gauge-meter.com/api/gauge/80?title=Python&color=00b4d8&size=140" width="140" title="Intermediate" />
-  <img src="https://gauge-meter.com/api/gauge/75?title=C%2B%2B&color=00b4d8&size=140" width="140" title="Intermediate" />
-  <img src="https://gauge-meter.com/api/gauge/70?title=JavaScript&color=00b4d8&size=140" width="140" title="Intermediate" />
-  <img src="https://gauge-meter.com/api/gauge/40?title=Java&color=00b4d8&size=140" width="140" title="Beginner" />
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-- 🛒 **[Nexus Store](https://github.com/rifatbhuiyan26/Nexus-Store):** Premium Glassmorphism sneaker store with Python backend sync.
-- 🌾 **Smart Farming AI:** Analyzing AI model viability under 2050 climate projections.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifatbhuiyan26&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifatbhuiyan26&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rifatbhuiyan26&theme=radical&hide_border=true" height="170" />
+</p>
 
 ---
 
-### 📫 Contact Me
+## 📌 Featured Projects
+
 <p align="center">
-  <a href="mailto:rmd400682@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/rifatbhuiyan26/gorai-blood-donation-club">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifatbhuiyan26&repo=gorai-blood-donation-club&theme=radical&hide_border=true" />
   </a>
 </p>
 
+---
+
+## 🎯 Current Goals
+
+- Improve my problem-solving skills
+- Build more real-life web projects
+- Learn backend development deeply
+- Explore software engineering and modern frameworks
+
+---
+
+## ✨ Quote I Believe In
+
+> "Keep learning, keep building, and keep improving."
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
+  Thanks for visiting my profile ❤️
 </p>
