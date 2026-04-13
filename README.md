@@ -53,7 +53,7 @@ The system can work with agricultural data like:
   <a href="www.linkedin.com/in/md-rifat-889a62402" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox)">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
