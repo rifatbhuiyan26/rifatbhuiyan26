@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student at AIUB | Aspiring Software Engineer | Web Developer | ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+AIUB;Currently+working+on+Smart+Farming+Thesis;Interested+in+Software+Engineering;Web+Development+and+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Student+at+AIUB;Currently+working+on+Smart+Farming+Thesis+using+Machine+Learning;Interested+in+Software+Engineering%2C+Web+Development+and+ML;Always+Learning+and+Building+Real+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,33 +14,33 @@
 ## 🚀 About Me
 
 - 🎓 I am a **Computer Science & Engineering student at AIUB**
-- 🌱 I am currently improving my skills in **Web Development, Software Engineering, and Machine Learning**
-- 🤖 I am currently working on a **thesis project on Smart Farming using Machine Learning**
-- 💡 I enjoy building practical and useful projects that solve real-life problems
-- 📚 I am always trying to learn new tools, frameworks, and technologies
+- 💻 I am passionate about **Software Engineering, Web Development, and Machine Learning**
+- 🌱 I am currently learning and improving my skills in **Python, JavaScript, PHP, and modern development tools**
+- 🤖 I am currently working on a **Smart Farming thesis using Machine Learning**
+- 🛠 I enjoy building practical and real-life projects
 - 🇧🇩 Based in **Bangladesh**
 
 ---
 
-## 🧠 Current Thesis Focus
+## 🧠 Current Thesis
 
 ### **Intelligent Smart Farming Decision System using Machine Learning**
 
-This thesis focuses on building a smart farming support system that can help farmers make better decisions using machine learning.  
-The system can work with agricultural data like:
+My current thesis focuses on building a smart farming support system using machine learning to help improve agricultural decision-making.
 
+### Main data focus:
 - Soil moisture
 - Temperature
 - Humidity
 - Rainfall
 - Crop condition
-- Fertility-related information
+- Soil fertility data
 
-### Goal of the thesis:
-- Predict better farming decisions
-- Support crop-related recommendations
-- Use machine learning to improve agricultural productivity
-- Make farming smarter, more efficient, and data-driven
+### Main goal:
+- Predict smart farming decisions
+- Support better crop recommendations
+- Improve agricultural productivity using data
+- Make farming more efficient and intelligent
 
 ---
 
@@ -89,48 +89,21 @@ The system can work with agricultural data like:
 
 ---
 
-## 📈 Programming Skill Level
+## 🎯 Skill Progress
 
-> These percentages represent my current self-assessed comfort level.
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[85],backgroundColor:['#00c9a7']}]},options:{trackColor:'#eeeeee',centerPercentage:80,centerArea:{text:'C\n85%'}}}" width="150"/>
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[75],backgroundColor:['#4d96ff']}]},options:{trackColor:'#eeeeee',centerPercentage:80,centerArea:{text:'C++\n75%'}}}" width="150"/>
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[65],backgroundColor:['#f9c74f']}]},options:{trackColor:'#eeeeee',centerPercentage:80,centerArea:{text:'Python\n65%'}}}" width="150"/>
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[40],backgroundColor:['#f94144']}]},options:{trackColor:'#eeeeee',centerPercentage:80,centerArea:{text:'Java\n40%'}}}" width="150"/>
+</p>
 
-| Language | Skill Level |
-|----------|-------------|
-| C        | 85% |
-| C++      | 75% |
-| Python   | 65% |
-| Java     | 40% |
-| HTML     | 85% |
-| CSS      | 75% |
-| JavaScript | 65% |
-| PHP      | 55% |
-
----
-
-## 📊 Skill Progress Bars
-
-### C
-![C](https://img.shields.io/badge/C-85%25-00599C?style=for-the-badge)
-
-### C++
-![C++](https://img.shields.io/badge/C++-75%25-004482?style=for-the-badge)
-
-### Python
-![Python](https://img.shields.io/badge/Python-65%25-3776AB?style=for-the-badge)
-
-### Java
-![Java](https://img.shields.io/badge/Java-40%25-ED8B00?style=for-the-badge)
-
-### HTML
-![HTML](https://img.shields.io/badge/HTML-85%25-E34F26?style=for-the-badge)
-
-### CSS
-![CSS](https://img.shields.io/badge/CSS-75%25-1572B6?style=for-the-badge)
-
-### JavaScript
-![JavaScript](https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=for-the-badge)
-
-### PHP
-![PHP](https://img.shields.io/badge/PHP-55%25-777BB4?style=for-the-badge)
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[85],backgroundColor:['#ff6b6b']}]},options:{trackColor:'#eeeeee',centerPercentage:80,centerArea:{text:'HTML\n85%'}}}" width="150"/>
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[75],backgroundColor:['#118ab2']}]},options:{trackColor:'#eeeeee',centerPercentage:80,centerArea:{text:'CSS\n75%'}}}" width="150"/>
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[65],backgroundColor:['#ffd166']}]},options:{trackColor:'#eeeeee',centerPercentage:80,centerArea:{text:'JS\n65%'}}}" width="150"/>
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[55],backgroundColor:['#6c5ce7']}]},options:{trackColor:'#eeeeee',centerPercentage:80,centerArea:{text:'PHP\n55%'}}}" width="150"/>
+</p>
 
 ---
 
@@ -150,8 +123,8 @@ The system can work with agricultural data like:
 ## 📌 Featured Project
 
 <p align="center">
-  <a href="https://github.com/rifatbhuiyan26/gorai-blood-donation-club">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifatbhuiyan26&repo=gorai-blood-donation-club&theme=radical&hide_border=true" />
+  <a href="https://github.com/rifatbhuiyan26/Gora_Blood_Donation_club">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rifatbhuiyan26&repo=Gora_Blood_Donation_club&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -159,10 +132,10 @@ The system can work with agricultural data like:
 
 ## 🎯 What I Am Working On
 
-- Building practical academic projects
+- Building practical and real-life web projects
 - Improving frontend and backend development skills
-- Learning more Python for problem solving and machine learning
-- Working on a smart farming thesis using ML
+- Learning more Python for ML and problem solving
+- Working on a smart farming thesis using machine learning
 - Strengthening software engineering concepts
 
 ---
