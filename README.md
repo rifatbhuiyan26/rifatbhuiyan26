@@ -50,7 +50,7 @@ The system can work with agricultural data like:
   <a href="https://www.facebook.com/bhuiyan.rifat.801277" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/md-rifat-889a62402" target="_blank">
+  <a href="https://www.linkedin.com/in/md-rifat-889a62402" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox)">
